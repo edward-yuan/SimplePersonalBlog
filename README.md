@@ -30,8 +30,8 @@
 
 8. 浏览器输入 http://127.0.0.1:8000/
 
-推荐数据库是postgresql 9
+另外推荐数据库是postgresql 9，如果不是的话，请酌情修改models类。
 
-额外需要修改的部分:
+部署到本地需要修改的部分:
+
 1.首先编辑weblog/config/setting，修改数据库配置,STATICFILES_DIRS目录和网站域名SITES_HOST
-2.pip3 install django-tracking2
