@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block content %}
+    <div class="content-body">
+        <div class="container">
+            <div class="row">
+                <main class="col-md-12">
+                    <h1 class="page-title">联系我</h1>
+                    <article class="post">
+                        <div class="entry-content clearfix">
+                        
+                        <form action="#" method="post" class="contact-form">
+                                    {% csrf_token %}
+                                    {{ form }}
+                            <button class="btn-send btn-5 btn-5b ion-ios-paperplane">
+                                            <span>给我发信</span></button>
+                        </form>
+                        </div>
+                    </article>
+                </main>
+            </div>
+        </div>
+    </div>
+{% endblock %}
