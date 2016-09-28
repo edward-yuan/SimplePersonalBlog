@@ -26,7 +26,7 @@ sys.path.append(os.path.join(BASE_DIR, '../weblog/config'))
 SECRET_KEY = '_lho^m33w-!qkhmqe2n2cwovcouiw(l++%&^(w5x@171pbm7_4'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+#DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
@@ -108,7 +108,7 @@ WSGI_APPLICATION = 'weblog.config.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'blog',                      
+        'NAME': 'postgres',                      
         'USER': 'postgres',
         'PASSWORD': '7494994',
         'HOST': '',
@@ -231,11 +231,11 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 25
 EMAIL_HOST_USER = 'zhangyuan19870129@gmail.com'  # add your own accounts for local test
-EMAIL_HOST_PASSWORD = 'zhangyuan596387'
+EMAIL_HOST_PASSWORD = '#######'
 EMAIL_USE_TLS = True
 
 DEFAULT_FROM_EMAIL = ['zhangyuan@szkingdom.com']
 BOOTSTRAP_ADMIN_SIDEBAR_MENU = True
 
 #网站域名
-SITES_HOST = "127.0.0.1:8000"
+SITES_HOST = "blog.9ifunds.com"

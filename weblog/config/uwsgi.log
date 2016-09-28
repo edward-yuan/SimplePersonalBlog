@@ -1,0 +1,590 @@
+*** Starting uWSGI 2.0.13.1 (32bit) on [Wed Sep 28 00:12:01 2016] ***
+compiled with version: 4.8.4 on 25 September 2016 09:40:11
+os: Linux-3.13.0-96-generic #143-Ubuntu SMP Mon Aug 29 20:15:47 UTC 2016
+nodename: vultr.guest
+machine: i686
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/edward/SimplePersonalBlog/weblog/config
+detected binary path: /home/edward/django_env/bin/uwsgi
+chdir() to /home/edward/SimplePersonalBlog
+your processes number limit is 5834
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8000).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.13.1 (32bit) on [Wed Sep 28 00:12:04 2016] ***
+compiled with version: 4.8.4 on 25 September 2016 09:40:11
+os: Linux-3.13.0-96-generic #143-Ubuntu SMP Mon Aug 29 20:15:47 UTC 2016
+nodename: vultr.guest
+machine: i686
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/edward/SimplePersonalBlog/weblog/config
+detected binary path: /home/edward/django_env/bin/uwsgi
+chdir() to /home/edward/SimplePersonalBlog
+your processes number limit is 5834
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8000).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.13.1 (32bit) on [Wed Sep 28 00:12:10 2016] ***
+compiled with version: 4.8.4 on 25 September 2016 09:40:11
+os: Linux-3.13.0-96-generic #143-Ubuntu SMP Mon Aug 29 20:15:47 UTC 2016
+nodename: vultr.guest
+machine: i686
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/edward/SimplePersonalBlog/weblog/config
+detected binary path: /home/edward/django_env/bin/uwsgi
+chdir() to /home/edward/SimplePersonalBlog
+your processes number limit is 5834
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8000).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.13.1 (32bit) on [Wed Sep 28 00:12:45 2016] ***
+compiled with version: 4.8.4 on 25 September 2016 09:40:11
+os: Linux-3.13.0-96-generic #143-Ubuntu SMP Mon Aug 29 20:15:47 UTC 2016
+nodename: vultr.guest
+machine: i686
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/edward/SimplePersonalBlog/weblog/config
+detected binary path: /home/edward/django_env/bin/uwsgi
+chdir() to /home/edward/SimplePersonalBlog
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 5834
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8000).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.13.1 (32bit) on [Wed Sep 28 00:14:12 2016] ***
+compiled with version: 4.8.4 on 25 September 2016 09:40:11
+os: Linux-3.13.0-96-generic #143-Ubuntu SMP Mon Aug 29 20:15:47 UTC 2016
+nodename: vultr.guest
+machine: i686
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/edward/SimplePersonalBlog/weblog/config
+detected binary path: /home/edward/django_env/bin/uwsgi
+chdir() to /home/edward/SimplePersonalBlog
+your processes number limit is 5834
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8000 fd 3
+Python version: 3.4.3 (default, Sep 14 2016, 12:50:52)  [GCC 4.8.4]
+Python main interpreter initialized at 0x96c6070
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 357000 bytes (348 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x96c6070 pid: 2838 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2838)
+spawned uWSGI worker 1 (pid: 2840, cores: 2)
+spawned uWSGI worker 2 (pid: 2841, cores: 2)
+spawned uWSGI worker 3 (pid: 2842, cores: 2)
+spawned uWSGI worker 4 (pid: 2843, cores: 2)
+*** Starting uWSGI 2.0.13.1 (32bit) on [Wed Sep 28 00:14:16 2016] ***
+compiled with version: 4.8.4 on 25 September 2016 09:40:11
+os: Linux-3.13.0-96-generic #143-Ubuntu SMP Mon Aug 29 20:15:47 UTC 2016
+nodename: vultr.guest
+machine: i686
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/edward/SimplePersonalBlog/weblog/config
+detected binary path: /home/edward/django_env/bin/uwsgi
+chdir() to /home/edward/SimplePersonalBlog
+your processes number limit is 5834
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8000).
+bind(): Address already in use [core/socket.c line 769]
+Wed Sep 28 00:14:32 2016 - uWSGI worker 2 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Wed Sep 28 00:14:32 2016 - uWSGI worker 3 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Wed Sep 28 00:14:32 2016 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Wed Sep 28 00:14:32 2016 - uWSGI worker 3 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Wed Sep 28 00:14:32 2016 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Wed Sep 28 00:14:32 2016 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Wed Sep 28 00:14:32 2016 - uWSGI worker 2 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Wed Sep 28 00:14:32 2016 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.13.1 (32bit) on [Wed Sep 28 00:14:49 2016] ***
+compiled with version: 4.8.4 on 25 September 2016 09:40:11
+os: Linux-3.13.0-96-generic #143-Ubuntu SMP Mon Aug 29 20:15:47 UTC 2016
+nodename: vultr.guest
+machine: i686
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /home/edward/SimplePersonalBlog/weblog/config
+detected binary path: /home/edward/django_env/bin/uwsgi
+chdir() to /home/edward/SimplePersonalBlog
+your processes number limit is 5834
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8000 fd 3
+Python version: 3.4.3 (default, Sep 14 2016, 12:50:52)  [GCC 4.8.4]
+Python main interpreter initialized at 0x8c0c070
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 357000 bytes (348 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x8c0c070 pid: 2860 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2860)
+spawned uWSGI worker 1 (pid: 2862, cores: 2)
+spawned uWSGI worker 2 (pid: 2863, cores: 2)
+spawned uWSGI worker 3 (pid: 2864, cores: 2)
+spawned uWSGI worker 4 (pid: 2865, cores: 2)
+[pid: 2865|app: 0|req: 1/1] 223.73.2.180 () {48 vars in 928 bytes} [Wed Sep 28 00:15:38 2016] GET / => generated 17796 bytes in 1843 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 2/2] 223.73.2.180 () {48 vars in 927 bytes} [Wed Sep 28 00:17:48 2016] GET / => generated 17796 bytes in 73 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 1/3] 223.73.2.180 () {46 vars in 906 bytes} [Wed Sep 28 00:17:52 2016] GET /tag/9 => generated 11726 bytes in 1873 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 2/4] 223.73.2.180 () {46 vars in 901 bytes} [Wed Sep 28 00:17:56 2016] GET / => generated 17796 bytes in 64 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 1.380 seconds.
+Prefix dict has been built succesfully.
+[pid: 2862|app: 0|req: 3/5] 223.73.2.180 () {46 vars in 914 bytes} [Wed Sep 28 00:18:58 2016] GET /article/8 => generated 17296 bytes in 1662 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 4/6] 223.73.2.180 () {46 vars in 905 bytes} [Wed Sep 28 00:19:03 2016] GET / => generated 17736 bytes in 71 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 5/7] 223.73.2.180 () {44 vars in 868 bytes} [Wed Sep 28 00:19:14 2016] GET /admin/ => generated 10592 bytes in 73 msecs (HTTP/1.1 200) 6 headers in 251 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 6/8] 223.73.2.180 () {46 vars in 940 bytes} [Wed Sep 28 00:19:21 2016] GET /admin/blog/contact/ => generated 6278 bytes in 52 msecs (HTTP/1.1 200) 7 headers in 405 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 7/9] 223.73.2.180 () {44 vars in 835 bytes} [Wed Sep 28 00:19:21 2016] GET /admin/jsi18n/ => generated 7415 bytes in 12 msecs (HTTP/1.1 200) 3 headers in 93 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 8/10] 223.73.2.180 () {46 vars in 937 bytes} [Wed Sep 28 00:19:23 2016] GET /admin/blog/ => generated 3766 bytes in 32 msecs (HTTP/1.1 200) 6 headers in 251 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 9/11] 223.73.2.180 () {46 vars in 966 bytes} [Wed Sep 28 00:19:25 2016] GET /admin/blog/article/ => generated 9413 bytes in 65 msecs (HTTP/1.1 200) 7 headers in 405 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 10/12] 223.73.2.180 () {44 vars in 835 bytes} [Wed Sep 28 00:19:25 2016] GET /admin/jsi18n/ => generated 7415 bytes in 11 msecs (HTTP/1.1 200) 3 headers in 93 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 11/13] 223.73.2.180 () {46 vars in 1003 bytes} [Wed Sep 28 00:19:51 2016] GET /admin/blog/article/add/ => generated 10181 bytes in 85 msecs (HTTP/1.1 200) 7 headers in 405 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 12/14] 223.73.2.180 () {44 vars in 839 bytes} [Wed Sep 28 00:19:51 2016] GET /admin/jsi18n/ => generated 7415 bytes in 12 msecs (HTTP/1.1 200) 3 headers in 93 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 13/15] 85.93.91.84 () {34 vars in 455 bytes} [Wed Sep 28 00:20:23 2016] GET /robots.txt => generated 84 bytes in 4 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 3/16] 85.93.91.84 () {34 vars in 478 bytes} [Wed Sep 28 00:20:24 2016] GET /doc-la/page2/ => generated 87 bytes in 6 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 14/17] 223.73.2.180 () {54 vars in 1261 bytes} [Wed Sep 28 00:26:51 2016] POST /admin/blog/article/add/ => generated 28894 bytes in 86 msecs (HTTP/1.1 200) 7 headers in 405 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 4/18] 223.73.2.180 () {44 vars in 839 bytes} [Wed Sep 28 00:26:52 2016] GET /admin/jsi18n/ => generated 7415 bytes in 18 msecs (HTTP/1.1 200) 3 headers in 93 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 15/19] 223.73.2.180 () {54 vars in 1261 bytes} [Wed Sep 28 00:26:59 2016] POST /admin/blog/article/add/ => generated 0 bytes in 580 msecs (HTTP/1.1 302) 8 headers in 541 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 16/20] 223.73.2.180 () {48 vars in 1233 bytes} [Wed Sep 28 00:26:59 2016] GET /admin/blog/article/ => generated 10001 bytes in 70 msecs (HTTP/1.1 200) 8 headers in 487 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 17/21] 223.73.2.180 () {44 vars in 835 bytes} [Wed Sep 28 00:27:00 2016] GET /admin/jsi18n/ => generated 7415 bytes in 12 msecs (HTTP/1.1 200) 3 headers in 93 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 18/22] 223.73.2.180 () {46 vars in 992 bytes} [Wed Sep 28 00:27:02 2016] GET /admin/blog/article/9/change/ => generated 29040 bytes in 89 msecs (HTTP/1.1 200) 7 headers in 405 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 19/23] 223.73.2.180 () {44 vars in 844 bytes} [Wed Sep 28 00:27:02 2016] GET /admin/jsi18n/ => generated 7415 bytes in 16 msecs (HTTP/1.1 200) 3 headers in 93 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 20/24] 223.73.2.180 () {46 vars in 950 bytes} [Wed Sep 28 00:27:03 2016] GET /admin/r/15/9/ => generated 0 bytes in 13 msecs (HTTP/1.1 302) 7 headers in 299 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 21/25] 223.73.2.180 () {46 vars in 942 bytes} [Wed Sep 28 00:27:03 2016] GET /article/9 => generated 23640 bytes in 518 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 22/26] 223.73.2.180 () {46 vars in 905 bytes} [Wed Sep 28 00:27:29 2016] GET / => generated 17741 bytes in 67 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 23/27] 223.73.2.180 () {46 vars in 914 bytes} [Wed Sep 28 00:28:44 2016] GET /article/9 => generated 23640 bytes in 2737 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 24/28] 223.73.2.180 () {44 vars in 868 bytes} [Wed Sep 28 00:30:33 2016] GET /admin/ => generated 10542 bytes in 51 msecs (HTTP/1.1 200) 6 headers in 251 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 25/29] 223.73.2.180 () {46 vars in 961 bytes} [Wed Sep 28 00:30:36 2016] GET /admin/blog/article/ => generated 9816 bytes in 70 msecs (HTTP/1.1 200) 7 headers in 405 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 26/30] 223.73.2.180 () {44 vars in 835 bytes} [Wed Sep 28 00:30:36 2016] GET /admin/jsi18n/ => generated 7415 bytes in 12 msecs (HTTP/1.1 200) 3 headers in 93 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 27/31] 223.73.2.180 () {46 vars in 992 bytes} [Wed Sep 28 00:30:38 2016] GET /admin/blog/article/9/change/ => generated 29040 bytes in 74 msecs (HTTP/1.1 200) 7 headers in 405 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 28/32] 223.73.2.180 () {44 vars in 844 bytes} [Wed Sep 28 00:30:38 2016] GET /admin/jsi18n/ => generated 7415 bytes in 17 msecs (HTTP/1.1 200) 3 headers in 93 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 29/33] 223.73.2.180 () {54 vars in 1255 bytes} [Wed Sep 28 00:30:45 2016] POST /admin/blog/article/9/change/ => generated 0 bytes in 539 msecs (HTTP/1.1 302) 8 headers in 543 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 30/34] 223.73.2.180 () {48 vars in 1240 bytes} [Wed Sep 28 00:30:45 2016] GET /admin/blog/article/ => generated 10003 bytes in 67 msecs (HTTP/1.1 200) 8 headers in 487 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 31/35] 223.73.2.180 () {44 vars in 835 bytes} [Wed Sep 28 00:30:46 2016] GET /admin/jsi18n/ => generated 7415 bytes in 13 msecs (HTTP/1.1 200) 3 headers in 93 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 32/36] 223.73.2.180 () {46 vars in 992 bytes} [Wed Sep 28 00:30:48 2016] GET /admin/blog/article/9/change/ => generated 29493 bytes in 80 msecs (HTTP/1.1 200) 7 headers in 405 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 33/37] 223.73.2.180 () {44 vars in 844 bytes} [Wed Sep 28 00:30:49 2016] GET /admin/jsi18n/ => generated 7415 bytes in 11 msecs (HTTP/1.1 200) 3 headers in 93 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 34/38] 223.73.2.180 () {46 vars in 950 bytes} [Wed Sep 28 00:30:50 2016] GET /admin/r/15/9/ => generated 0 bytes in 13 msecs (HTTP/1.1 302) 7 headers in 299 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 35/39] 223.73.2.180 () {46 vars in 942 bytes} [Wed Sep 28 00:30:50 2016] GET /article/9 => generated 23867 bytes in 481 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 36/40] 223.73.2.180 () {46 vars in 905 bytes} [Wed Sep 28 00:31:08 2016] GET / => generated 17741 bytes in 72 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 37/41] 180.93.231.87 () {42 vars in 686 bytes} [Wed Sep 28 00:32:47 2016] GET / => generated 17741 bytes in 63 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 38/42] 180.93.231.87 () {38 vars in 571 bytes} [Wed Sep 28 00:32:47 2016] GET /apple-touch-icon-120x120-precomposed.png => generated 114 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 5/43] 180.93.231.87 () {38 vars in 547 bytes} [Wed Sep 28 00:32:47 2016] GET /apple-touch-icon-120x120.png => generated 102 bytes in 6 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 6/44] 180.93.231.87 () {38 vars in 555 bytes} [Wed Sep 28 00:32:47 2016] GET /apple-touch-icon-precomposed.png => generated 106 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 39/45] 180.93.231.87 () {38 vars in 531 bytes} [Wed Sep 28 00:32:47 2016] GET /apple-touch-icon.png => generated 94 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 40/46] 180.93.231.87 () {38 vars in 513 bytes} [Wed Sep 28 00:32:47 2016] GET /favicon.ico => generated 85 bytes in 5 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 7/47] 180.93.231.87 () {38 vars in 571 bytes} [Wed Sep 28 00:32:47 2016] GET /apple-touch-icon-120x120-precomposed.png => generated 114 bytes in 8 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 8/48] 180.93.231.87 () {38 vars in 547 bytes} [Wed Sep 28 00:32:47 2016] GET /apple-touch-icon-120x120.png => generated 102 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 41/49] 180.93.231.87 () {38 vars in 555 bytes} [Wed Sep 28 00:32:48 2016] GET /apple-touch-icon-precomposed.png => generated 106 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 42/50] 180.93.231.87 () {38 vars in 531 bytes} [Wed Sep 28 00:32:48 2016] GET /apple-touch-icon.png => generated 94 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 9/51] 180.93.231.87 () {38 vars in 513 bytes} [Wed Sep 28 00:32:48 2016] GET /favicon.ico => generated 85 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 10/52] 51.255.66.99 () {34 vars in 588 bytes} [Wed Sep 28 00:33:34 2016] GET /doc-la/bat-duoc-ca-lang-duoi-do-quy-hiem-gan-nua-ta-tren-song-serepok/ => generated 144 bytes in 2 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 11/53] 223.73.2.180 () {44 vars in 868 bytes} [Wed Sep 28 00:33:41 2016] GET /admin/ => generated 10492 bytes in 210 msecs (HTTP/1.1 200) 6 headers in 251 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 1/54] 223.73.2.180 () {44 vars in 869 bytes} [Wed Sep 28 00:33:41 2016] GET /admin/ => generated 10492 bytes in 2188 msecs (HTTP/1.1 200) 6 headers in 251 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 2/55] 223.73.2.180 () {46 vars in 961 bytes} [Wed Sep 28 00:33:43 2016] GET /admin/blog/article/ => generated 9816 bytes in 102 msecs (HTTP/1.1 200) 7 headers in 405 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 43/56] 223.73.2.180 () {44 vars in 835 bytes} [Wed Sep 28 00:33:43 2016] GET /admin/jsi18n/ => generated 7415 bytes in 18 msecs (HTTP/1.1 200) 3 headers in 93 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 44/57] 223.73.2.180 () {46 vars in 1003 bytes} [Wed Sep 28 00:33:46 2016] GET /admin/blog/article/add/ => generated 10181 bytes in 92 msecs (HTTP/1.1 200) 7 headers in 405 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 45/58] 223.73.2.180 () {44 vars in 840 bytes} [Wed Sep 28 00:33:46 2016] GET /admin/jsi18n/ => generated 7415 bytes in 11 msecs (HTTP/1.1 200) 3 headers in 93 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 46/59] 223.73.2.180 () {54 vars in 1260 bytes} [Wed Sep 28 00:34:25 2016] POST /admin/blog/article/add/ => generated 0 bytes in 317 msecs (HTTP/1.1 302) 8 headers in 570 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 47/60] 223.73.2.180 () {48 vars in 1263 bytes} [Wed Sep 28 00:34:25 2016] GET /admin/blog/article/ => generated 10434 bytes in 70 msecs (HTTP/1.1 200) 8 headers in 487 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 48/61] 223.73.2.180 () {44 vars in 836 bytes} [Wed Sep 28 00:34:25 2016] GET /admin/jsi18n/ => generated 7415 bytes in 11 msecs (HTTP/1.1 200) 3 headers in 93 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 49/62] 223.73.2.180 () {46 vars in 995 bytes} [Wed Sep 28 00:34:29 2016] GET /admin/blog/article/10/change/ => generated 19578 bytes in 99 msecs (HTTP/1.1 200) 7 headers in 405 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 50/63] 223.73.2.180 () {44 vars in 846 bytes} [Wed Sep 28 00:34:29 2016] GET /admin/jsi18n/ => generated 7415 bytes in 12 msecs (HTTP/1.1 200) 3 headers in 93 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 51/64] 223.73.2.180 () {46 vars in 954 bytes} [Wed Sep 28 00:34:31 2016] GET /admin/r/15/10/ => generated 0 bytes in 11 msecs (HTTP/1.1 302) 7 headers in 300 bytes (1 switches on core 0)
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 1.466 seconds.
+Prefix dict has been built succesfully.
+[pid: 2865|app: 0|req: 12/65] 223.73.2.180 () {46 vars in 946 bytes} [Wed Sep 28 00:34:31 2016] GET /article/10 => generated 16548 bytes in 1794 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 52/66] 223.73.2.180 () {48 vars in 977 bytes} [Wed Sep 28 00:34:47 2016] GET /article/10 => generated 16548 bytes in 2935 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 13/67] 223.73.2.180 () {46 vars in 907 bytes} [Wed Sep 28 00:35:01 2016] GET / => generated 17771 bytes in 81 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 53/68] 223.73.2.180 () {46 vars in 910 bytes} [Wed Sep 28 00:35:13 2016] GET /?page=2 => generated 17786 bytes in 66 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 54/69] 223.73.2.180 () {46 vars in 904 bytes} [Wed Sep 28 00:35:19 2016] GET / => generated 17771 bytes in 62 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 55/70] 223.73.2.180 () {46 vars in 910 bytes} [Wed Sep 28 00:35:42 2016] GET /?page=2 => generated 17786 bytes in 63 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 56/71] 223.73.2.180 () {46 vars in 922 bytes} [Wed Sep 28 00:35:49 2016] GET /article/1 => generated 13183 bytes in 325 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 57/72] 223.73.2.180 () {46 vars in 906 bytes} [Wed Sep 28 00:35:55 2016] GET / => generated 17768 bytes in 61 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 58/73] 51.255.66.99 () {34 vars in 634 bytes} [Wed Sep 28 00:36:45 2016] GET /doc-la/kinh-hoang-nguoi-phu-nu-sinh-ra-dua-be-nua-nguoi-nua-thu-gay-chan-dong-tai-binh-phuoc/ => generated 167 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 14/74] 163.172.66.151 () {34 vars in 662 bytes} [Wed Sep 28 00:36:54 2016] GET /xa-hoi/cu-ba-85-tuoi-cat-vun-hon-23-ty-dong-truoc-khi-chet-va-xe-nat-so-tiet-kiem-vi-qua-uat-han-con-chau/ => generated 180 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 15/75] 178.255.215.69 () {40 vars in 728 bytes} [Wed Sep 28 00:42:59 2016] GET /video/anh-oi-anh-em-phe-quen-het-duong-ve-anh-co-the-cho-em-ve-khong-em-xin-anh-day/ => generated 158 bytes in 6 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 59/76] 66.249.69.225 () {36 vars in 520 bytes} [Wed Sep 28 00:46:06 2016] GET /robots.txt => generated 84 bytes in 7 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 60/77] 121.170.185.195 () {38 vars in 523 bytes} [Wed Sep 28 00:51:25 2016] GET / => generated 17768 bytes in 79 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 61/78] 121.170.185.195 () {38 vars in 551 bytes} [Wed Sep 28 00:51:26 2016] GET /fckeditor => generated 83 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 16/79] 121.170.185.195 () {38 vars in 569 bytes} [Wed Sep 28 00:51:26 2016] GET /admin/fckeditor => generated 89 bytes in 7 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 62/80] 121.170.185.195 () {38 vars in 590 bytes} [Wed Sep 28 00:51:28 2016] GET /admin_manage/fckeditor => generated 96 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 17/81] 121.170.185.195 () {38 vars in 584 bytes} [Wed Sep 28 00:51:28 2016] GET /web_manage/fckeditor => generated 94 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 63/82] 121.170.185.195 () {38 vars in 575 bytes} [Wed Sep 28 00:51:28 2016] GET /manager/FCKeditor => generated 91 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 3/83] 121.170.185.195 () {38 vars in 593 bytes} [Wed Sep 28 00:51:29 2016] GET /admin/manager/Fckeditor => generated 97 bytes in 7 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 64/84] 121.170.185.195 () {38 vars in 605 bytes} [Wed Sep 28 00:51:30 2016] GET /public/js/manager/fckeditor => generated 101 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 4/85] 121.170.185.195 () {38 vars in 560 bytes} [Wed Sep 28 00:51:30 2016] GET /js/fckeditor => generated 86 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 65/86] 121.170.185.195 () {38 vars in 575 bytes} [Wed Sep 28 00:51:30 2016] GET /include/fckeditor => generated 91 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 18/87] 121.170.185.195 () {38 vars in 569 bytes} [Wed Sep 28 00:51:30 2016] GET /files/fckeditor => generated 89 bytes in 6 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 66/88] 121.170.185.195 () {38 vars in 572 bytes} [Wed Sep 28 00:51:31 2016] GET /admin2/fckeditor => generated 90 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 19/89] 121.170.185.195 () {38 vars in 680 bytes} [Wed Sep 28 00:51:31 2016] GET /wp-content/plugins/fckeditor_for_wordpress/fckeditor => generated 126 bytes in 5 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 67/90] 121.170.185.195 () {38 vars in 572 bytes} [Wed Sep 28 00:51:31 2016] GET /common/fckeditor => generated 90 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 68/91] 212.47.229.189 () {34 vars in 471 bytes} [Wed Sep 28 00:59:56 2016] GET /robots.txt => generated 84 bytes in 8 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 69/92] 212.47.229.189 () {36 vars in 729 bytes} [Wed Sep 28 00:59:58 2016] GET /%E6%88%91%E8%A6%81%E6%89%BE%E5%B7%A5%E4%BD%9C/ => generated 90 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 70/93] 157.55.39.173 () {42 vars in 585 bytes} [Wed Sep 28 01:09:56 2016] GET /robots.txt => generated 84 bytes in 7 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 71/94] 157.55.39.173 () {42 vars in 619 bytes} [Wed Sep 28 01:10:03 2016] GET /user/tuanvupro/points => generated 95 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 20/95] 164.132.161.87 () {34 vars in 570 bytes} [Wed Sep 28 01:11:20 2016] GET /xa-hoi/cai-ket-boc-mui-cua-hai-thanh-nien-trom-bo-bat-thanh/ => generated 134 bytes in 6 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 72/96] 207.46.13.74 () {42 vars in 702 bytes} [Wed Sep 28 01:16:36 2016] GET /xa-hoi/phan-no-thieu-nu-xinh-dep-danh-dap-me-tam-than-giua-pho/ => generated 137 bytes in 7 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 21/97] 23.229.8.247 () {42 vars in 742 bytes} [Wed Sep 28 01:23:57 2016] GET /2016/06/27/%e5%85%bb%e8%8a%b1%e8%ae%b0/ => generated 95 bytes in 7 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 73/98] 23.229.8.247 () {42 vars in 681 bytes} [Wed Sep 28 01:23:57 2016] GET / => generated 17768 bytes in 75 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 74/99] 213.239.205.118 () {36 vars in 682 bytes} [Wed Sep 28 01:36:08 2016] GET /wp-content/uploads/2016/06/%E8%AE%A2%E9%98%85%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg => generated 123 bytes in 9 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 75/100] 213.239.205.118 () {36 vars in 682 bytes} [Wed Sep 28 01:36:08 2016] GET /wp-content/uploads/2016/06/%E8%AE%A2%E9%98%85%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg => generated 123 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 22/101] 146.88.46.163 () {40 vars in 612 bytes} [Wed Sep 28 01:36:43 2016] GET /ceebbankg.zip => generated 87 bytes in 8 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 76/102] 180.93.231.87 () {42 vars in 677 bytes} [Wed Sep 28 01:37:28 2016] GET / => generated 17768 bytes in 71 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 23/103] 180.93.231.87 () {38 vars in 571 bytes} [Wed Sep 28 01:37:28 2016] GET /apple-touch-icon-152x152-precomposed.png => generated 114 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 77/104] 180.93.231.87 () {38 vars in 547 bytes} [Wed Sep 28 01:37:28 2016] GET /apple-touch-icon-152x152.png => generated 102 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 24/105] 180.93.231.87 () {38 vars in 555 bytes} [Wed Sep 28 01:37:28 2016] GET /apple-touch-icon-precomposed.png => generated 106 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 78/106] 180.93.231.87 () {38 vars in 531 bytes} [Wed Sep 28 01:37:28 2016] GET /apple-touch-icon.png => generated 94 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 25/107] 180.93.231.87 () {38 vars in 513 bytes} [Wed Sep 28 01:37:28 2016] GET /favicon.ico => generated 85 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 79/108] 180.93.231.87 () {38 vars in 571 bytes} [Wed Sep 28 01:37:29 2016] GET /apple-touch-icon-152x152-precomposed.png => generated 114 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 5/109] 180.93.231.87 () {38 vars in 547 bytes} [Wed Sep 28 01:37:29 2016] GET /apple-touch-icon-152x152.png => generated 102 bytes in 8 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 80/110] 180.93.231.87 () {38 vars in 555 bytes} [Wed Sep 28 01:37:29 2016] GET /apple-touch-icon-precomposed.png => generated 106 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 6/111] 180.93.231.87 () {38 vars in 531 bytes} [Wed Sep 28 01:37:29 2016] GET /apple-touch-icon.png => generated 94 bytes in 5 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 81/112] 180.93.231.87 () {38 vars in 513 bytes} [Wed Sep 28 01:37:29 2016] GET /favicon.ico => generated 85 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 82/113] 141.212.122.16 () {32 vars in 376 bytes} [Wed Sep 28 01:41:50 2016] GET / => generated 17768 bytes in 87 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 83/114] 122.9.2.210 () {40 vars in 603 bytes} [Wed Sep 28 01:58:31 2016] GET /phpMyAdmin => generated 84 bytes in 7 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 84/115] 176.58.125.102 () {32 vars in 410 bytes} [Wed Sep 28 02:18:38 2016] GET / => generated 17768 bytes in 77 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 85/116] 176.58.125.102 () {32 vars in 414 bytes} [Wed Sep 28 02:18:42 2016] GET / => generated 17768 bytes in 63 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 86/117] 176.58.125.102 () {32 vars in 410 bytes} [Wed Sep 28 02:18:43 2016] GET / => generated 17768 bytes in 60 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 87/118] 176.58.125.102 () {32 vars in 410 bytes} [Wed Sep 28 02:18:45 2016] GET / => generated 17768 bytes in 68 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 88/119] 176.58.125.102 () {32 vars in 414 bytes} [Wed Sep 28 02:18:46 2016] GET / => generated 17768 bytes in 62 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 89/120] 176.58.125.102 () {32 vars in 410 bytes} [Wed Sep 28 02:18:49 2016] GET / => generated 17768 bytes in 62 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 90/121] 176.58.125.102 () {32 vars in 410 bytes} [Wed Sep 28 02:18:50 2016] GET / => generated 17768 bytes in 64 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 91/122] 176.58.125.102 () {32 vars in 414 bytes} [Wed Sep 28 02:18:53 2016] GET / => generated 17768 bytes in 66 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 92/123] 176.58.125.102 () {32 vars in 410 bytes} [Wed Sep 28 02:18:55 2016] GET / => generated 17768 bytes in 67 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 93/124] 176.58.125.102 () {32 vars in 410 bytes} [Wed Sep 28 02:18:57 2016] GET / => generated 17768 bytes in 61 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 94/125] 176.58.125.102 () {32 vars in 410 bytes} [Wed Sep 28 02:18:58 2016] GET / => generated 17768 bytes in 61 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 95/126] 176.58.125.102 () {32 vars in 410 bytes} [Wed Sep 28 02:19:00 2016] GET / => generated 17768 bytes in 66 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 96/127] 176.58.125.102 () {32 vars in 414 bytes} [Wed Sep 28 02:19:00 2016] GET / => generated 17768 bytes in 67 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 97/128] 176.58.125.102 () {32 vars in 410 bytes} [Wed Sep 28 02:19:01 2016] GET / => generated 17768 bytes in 86 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 98/129] 66.249.69.221 () {38 vars in 600 bytes} [Wed Sep 28 02:20:35 2016] GET /article/6 => generated 18554 bytes in 391 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 99/130] 66.249.69.217 () {38 vars in 737 bytes} [Wed Sep 28 02:50:37 2016] GET /category/3 => generated 9679 bytes in 56 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 100/131] 66.249.69.229 () {38 vars in 718 bytes} [Wed Sep 28 02:51:20 2016] GET /tag/2 => generated 11700 bytes in 47 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 101/132] 51.255.65.57 () {34 vars in 592 bytes} [Wed Sep 28 02:55:44 2016] GET /xa-hoi/chien-sy-canh-sat-giao-thong-gap-nan-khi-tren-duong-lam-nhiem-vu/ => generated 146 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 102/133] 51.255.66.99 () {34 vars in 546 bytes} [Wed Sep 28 03:07:15 2016] GET /xa-hoi/sock-nhieu-nghe-si-noi-tieng-den-tien-dua/ => generated 123 bytes in 5 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 103/134] 157.55.39.203 () {42 vars in 579 bytes} [Wed Sep 28 03:19:24 2016] GET /robots.txt => generated 84 bytes in 7 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 104/135] 203.113.152.3 () {40 vars in 576 bytes} [Wed Sep 28 03:25:38 2016] GET / => generated 17732 bytes in 68 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 105/136] 157.55.39.203 () {42 vars in 583 bytes} [Wed Sep 28 03:26:53 2016] GET /robots.txt => generated 84 bytes in 5 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 106/137] 51.255.66.99 () {34 vars in 576 bytes} [Wed Sep 28 03:33:16 2016] GET /xa-hoi/ran-than-bao-thu-cu-100-ngay-dong-ho-lai-co-1-nguoi-chet/ => generated 138 bytes in 5 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 107/138] 66.249.69.229 () {38 vars in 600 bytes} [Wed Sep 28 03:36:22 2016] GET /article/2 => generated 12715 bytes in 244 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 108/139] 220.181.108.108 () {40 vars in 572 bytes} [Wed Sep 28 03:44:31 2016] GET / => generated 17732 bytes in 71 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 109/140] 188.146.135.118 () {44 vars in 928 bytes} [Wed Sep 28 03:49:19 2016] GET /tkfmokegufnkwfkypudbjiqifceprnlj.html?name=catgtbs => generated 111 bytes in 5 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 110/141] 188.146.135.118 () {42 vars in 795 bytes} [Wed Sep 28 03:49:20 2016] GET /favicon.ico => generated 85 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 26/142] 188.146.135.118 () {44 vars in 928 bytes} [Wed Sep 28 03:49:32 2016] GET /osdxkpxqgffnpajggoleisiytfjnipdj.html?name=ettpbcv => generated 111 bytes in 14 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 27/143] 188.146.135.118 () {42 vars in 795 bytes} [Wed Sep 28 03:49:34 2016] GET /favicon.ico => generated 85 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 111/144] 123.125.67.166 () {38 vars in 543 bytes} [Wed Sep 28 03:56:23 2016] GET / => generated 17732 bytes in 68 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 112/145] 123.125.67.166 () {38 vars in 555 bytes} [Wed Sep 28 03:58:26 2016] GET /about/ => generated 26564 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 113/146] 123.125.67.225 () {38 vars in 559 bytes} [Wed Sep 28 03:59:13 2016] GET /2016/09/ => generated 17747 bytes in 77 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 114/147] 157.55.39.67 () {42 vars in 746 bytes} [Wed Sep 28 04:01:23 2016] GET /xa-hoi/dau-long-chi-vi-hanh-dong-nay-ma-nguoi-me-da-khien-con-trai-7-tuoi-bi-dong-kinh/ => generated 161 bytes in 2 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 115/148] 207.46.13.134 () {42 vars in 688 bytes} [Wed Sep 28 04:12:23 2016] GET /xa-hoi/clip-canh-sat-lo-dat-kinh-hoang-nhu-ngay-tan-the/ => generated 130 bytes in 8 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 116/149] 123.125.71.32 () {38 vars in 535 bytes} [Wed Sep 28 04:17:51 2016] GET /article/10 => generated 16532 bytes in 371 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 117/150] 107.150.77.5 () {42 vars in 677 bytes} [Wed Sep 28 04:20:11 2016] GET / => generated 17741 bytes in 67 msecs (HTTP/1.0 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 118/151] 66.249.69.217 () {38 vars in 729 bytes} [Wed Sep 28 04:26:25 2016] GET /tag/11 => generated 9687 bytes in 43 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 119/152] 203.113.152.8 () {40 vars in 577 bytes} [Wed Sep 28 04:42:17 2016] GET / => generated 17741 bytes in 74 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 120/153] 51.255.66.99 () {34 vars in 590 bytes} [Wed Sep 28 04:49:02 2016] GET /doc-la/bi-chi-trich-vi-giet-ran-nguoi-dan-ong-tiet-lo-bi-mat-dong-troi/ => generated 145 bytes in 5 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 121/154] 123.125.71.60 () {38 vars in 533 bytes} [Wed Sep 28 04:51:11 2016] GET /article/9 => generated 23867 bytes in 2648 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 122/155] 66.249.69.229 () {38 vars in 600 bytes} [Wed Sep 28 04:52:09 2016] GET /article/4 => generated 14231 bytes in 323 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 123/156] 51.255.66.99 () {34 vars in 566 bytes} [Wed Sep 28 04:59:29 2016] GET /doc-la/ngam-ca-thu-khong-lo-nang-175kg-cua-ngu-dan-con-dao/ => generated 133 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 124/157] 51.255.66.99 () {34 vars in 586 bytes} [Wed Sep 28 05:04:33 2016] GET /xa-hoi/thay-giao-lay-cap-de-thi-ga-tinh-7-nu-sinh-dong-nghiep-noi-gi/ => generated 143 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 125/158] 66.249.69.215 () {38 vars in 785 bytes} [Wed Sep 28 05:07:51 2016] GET /xa-hoi/cu-rua-ho-guom-qua-doi/ => generated 104 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 126/159] 31.132.180.83 () {40 vars in 588 bytes} [Wed Sep 28 05:08:28 2016] GET / => generated 17759 bytes in 67 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 127/160] 72.14.199.141 () {38 vars in 569 bytes} [Wed Sep 28 05:10:23 2016] GET / => generated 17759 bytes in 66 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 128/161] 61.135.190.222 () {40 vars in 754 bytes} [Wed Sep 28 05:14:51 2016] GET / => generated 17759 bytes in 77 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 129/162] 61.135.190.223 () {40 vars in 777 bytes} [Wed Sep 28 05:15:02 2016] GET / => generated 17759 bytes in 73 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 130/163] 123.125.71.112 () {38 vars in 517 bytes} [Wed Sep 28 05:18:32 2016] GET / => generated 17759 bytes in 74 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 131/164] 220.181.108.169 () {38 vars in 530 bytes} [Wed Sep 28 05:19:28 2016] GET /about/ => generated 26564 bytes in 7 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 132/165] 123.125.71.70 () {38 vars in 532 bytes} [Wed Sep 28 05:19:58 2016] GET /2016/09/ => generated 17761 bytes in 89 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 133/166] 220.181.108.163 () {38 vars in 529 bytes} [Wed Sep 28 05:24:31 2016] GET /tag/11 => generated 9693 bytes in 41 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 134/167] 66.249.73.146 () {38 vars in 785 bytes} [Wed Sep 28 05:25:10 2016] GET /xa-hoi/cu-rua-ho-guom-qua-doi/ => generated 104 bytes in 2 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 135/168] 66.249.65.24 () {36 vars in 526 bytes} [Wed Sep 28 05:27:58 2016] GET /robots.txt => generated 84 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 136/169] 66.249.65.26 () {38 vars in 726 bytes} [Wed Sep 28 05:27:59 2016] GET /tag/12 => generated 9717 bytes in 41 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 137/170] 72.14.199.18 () {38 vars in 572 bytes} [Wed Sep 28 05:30:32 2016] GET / => generated 17759 bytes in 67 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 138/171] 80.82.64.239 () {34 vars in 460 bytes} [Wed Sep 28 05:33:31 2016] GET /?author=1 => generated 17759 bytes in 66 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 139/172] 66.249.73.136 () {38 vars in 591 bytes} [Wed Sep 28 05:44:13 2016] GET /tag/11 => generated 9693 bytes in 49 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 140/173] 123.125.71.116 () {38 vars in 526 bytes} [Wed Sep 28 05:57:51 2016] GET /tag/9 => generated 11705 bytes in 64 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 141/174] 51.255.66.98 () {34 vars in 568 bytes} [Wed Sep 28 05:58:55 2016] GET /xa-hoi/chien-sy-cong-an-bi-2-ke-dam-chet-guc-tai-cho-chi-vi/ => generated 134 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 142/175] 66.249.73.166 () {38 vars in 600 bytes} [Wed Sep 28 06:07:56 2016] GET /article/5 => generated 16256 bytes in 325 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 143/176] 51.255.66.98 () {34 vars in 570 bytes} [Wed Sep 28 06:09:54 2016] GET /xa-hoi/xot-xa-co-gai-co-khuon-mat-bien-dang-bi-chong-bo-2463/ => generated 135 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 144/177] 51.255.66.99 () {34 vars in 508 bytes} [Wed Sep 28 06:13:25 2016] GET /doc-la/boi-cung-ca-ho-piranha/ => generated 104 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 145/178] 139.129.217.191 () {36 vars in 551 bytes} [Wed Sep 28 06:13:56 2016] HEAD / => generated 17759 bytes in 72 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 146/179] 66.249.73.178 () {36 vars in 525 bytes} [Wed Sep 28 06:22:23 2016] GET /robots.txt => generated 84 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 147/180] 66.249.73.170 () {40 vars in 653 bytes} [Wed Sep 28 06:22:23 2016] GET /wp-content/uploads/2016/06/%E5%8F%AF%E7%88%B1%E7%9A%84%E8%82%89%E8%82%892.jpg => generated 121 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 28/181] 62.210.148.246 () {34 vars in 471 bytes} [Wed Sep 28 06:22:32 2016] GET /robots.txt => generated 84 bytes in 7 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 29/182] 62.210.148.246 () {36 vars in 667 bytes} [Wed Sep 28 06:22:34 2016] GET / => generated 17759 bytes in 71 msecs (HTTP/1.0 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 148/183] 62.210.148.246 () {38 vars in 827 bytes} [Wed Sep 28 06:22:38 2016] GET /media/s-p-gac-e-ch-t-oi-nam-n-ang-may-m-a-ien-cu-ng-trong-phong-tr => generated 140 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 149/184] 62.210.148.246 () {38 vars in 801 bytes} [Wed Sep 28 06:22:40 2016] GET /media/tr-n-h-c-r-nhau-i-t-m-song-6-h-c-sinh-ch-t-th-m => generated 127 bytes in 5 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 150/185] 163.47.14.177 () {42 vars in 812 bytes} [Wed Sep 28 06:30:30 2016] GET /tkfmokegufnkwfkypudbjiqifceprnlj.html?name=catgtbs => generated 111 bytes in 8 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 151/186] 163.47.14.177 () {40 vars in 676 bytes} [Wed Sep 28 06:30:30 2016] GET /favicon.ico => generated 85 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 30/187] 123.125.71.92 () {38 vars in 527 bytes} [Wed Sep 28 06:31:11 2016] GET /tag/10 => generated 9693 bytes in 79 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 31/188] 51.255.65.22 () {34 vars in 532 bytes} [Wed Sep 28 06:32:48 2016] GET /video/neuer-nhap-hon-vao-co-ho-nay-roi-ss/ => generated 116 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 152/189] 66.249.73.146 () {38 vars in 591 bytes} [Wed Sep 28 06:47:18 2016] GET /tag/12 => generated 9717 bytes in 53 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 153/190] 66.249.73.146 () {38 vars in 597 bytes} [Wed Sep 28 06:48:57 2016] GET /article/8 => generated 17321 bytes in 275 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 154/191] 66.249.73.136 () {38 vars in 597 bytes} [Wed Sep 28 06:50:50 2016] GET /article/9 => generated 23889 bytes in 477 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 155/192] 220.181.108.84 () {38 vars in 529 bytes} [Wed Sep 28 07:04:31 2016] GET /?page=2 => generated 17780 bytes in 76 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 156/193] 66.249.73.166 () {38 vars in 720 bytes} [Wed Sep 28 07:09:12 2016] GET /tag/12 => generated 9733 bytes in 46 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 157/194] 123.25.21.218 () {50 vars in 955 bytes} [Wed Sep 28 07:17:03 2016] GET /phap-luat/nu-cuoi-lanh-gay-cua-hai-tu-tu-truoc-gio-thi-hanh-an/ => generated 137 bytes in 9 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 158/195] 66.249.73.162 () {38 vars in 600 bytes} [Wed Sep 28 07:23:43 2016] GET /article/1 => generated 13219 bytes in 2708 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 159/196] 149.202.54.34 () {34 vars in 469 bytes} [Wed Sep 28 07:28:12 2016] GET /robots.txt => generated 84 bytes in 13 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 160/197] 149.202.54.34 () {36 vars in 781 bytes} [Wed Sep 28 07:28:16 2016] GET /video/lam-mon-ca-chem-nuong-giay-bac-ngay-sau-khi-vua-bat/ => generated 132 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 7/198] 149.202.54.34 () {38 vars in 811 bytes} [Wed Sep 28 07:28:21 2016] GET /video/lieu-minh-an-not-bat-mi-trong-vong-vay-40-xa-hoi-den/ => generated 133 bytes in 8 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 8/199] 149.202.54.34 () {38 vars in 879 bytes} [Wed Sep 28 07:28:23 2016] GET /video/lo-man-ban-rap-cua-son-tung-m-tp-thoi-con-chua-noi-tieng-khien-tat-ca-phai-giat-minh-o/ => generated 167 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 161/200] 149.202.54.34 () {38 vars in 785 bytes} [Wed Sep 28 07:28:27 2016] GET /video/loi-to-tinh-hay-nhat-hanh-tinh-gato-ghe/ => generated 120 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2864|app: 0|req: 1/201] 149.202.54.34 () {38 vars in 775 bytes} [Wed Sep 28 07:28:32 2016] GET /video/man-danh-bi-a-ba-dao-nhat-the-gioi/ => generated 115 bytes in 1936 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 162/202] 149.202.54.34 () {38 vars in 783 bytes} [Wed Sep 28 07:28:43 2016] GET /video/man-thu-loa-chat-nhat-he-mat-troi-luon/ => generated 119 bytes in 4 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 9/203] 149.202.54.34 () {38 vars in 777 bytes} [Wed Sep 28 07:28:46 2016] GET /video/man-to-tinh-cua-nam-sinh-va-cai-ket/ => generated 116 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 163/204] 149.202.54.34 () {38 vars in 819 bytes} [Wed Sep 28 07:28:50 2016] GET /video/may-anh-chay-sh-xai-iphone-thi-vao-ma-nghe-em-ay-noi-nhe/ => generated 137 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 10/205] 149.202.54.34 () {38 vars in 795 bytes} [Wed Sep 28 07:28:55 2016] GET /video/me-oi-co-con-nho-nao-no-ngoi-len-dui-cua-con/ => generated 125 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2864|app: 0|req: 2/206] 149.202.54.34 () {38 vars in 859 bytes} [Wed Sep 28 07:28:58 2016] GET /video/meo-nha-em-rat-it-khi-bat-chuot-nhung-da-bat-chuot-thi-toan-nhu-the-nay-thoi/ => generated 157 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 32/207] 149.202.54.34 () {38 vars in 805 bytes} [Wed Sep 28 07:29:03 2016] GET /video/mi-go-dac-biet-xin-loi-anh-chi-la-thang-ban-nhang/ => generated 130 bytes in 12 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 164/208] 149.202.54.34 () {38 vars in 831 bytes} [Wed Sep 28 07:29:05 2016] GET /video/mot-cai-ket-khong-the-nao-hoan-hao-hon-cho-hai-anh-di-cau-trom/ => generated 143 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 33/209] 149.202.54.34 () {38 vars in 829 bytes} [Wed Sep 28 07:29:07 2016] GET /video/mot-minh-dau-voi-5-kages-chi-co-the-la-anh-ay-sasuke-uchiha-v/ => generated 142 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 3/210] 149.202.54.34 () {38 vars in 799 bytes} [Wed Sep 28 07:29:11 2016] GET /video/mung-phong-bi-dam-cuoi-ba-dao-nhat-vinh-bac-bo/ => generated 127 bytes in 4 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 11/211] 149.202.54.34 () {38 vars in 767 bytes} [Wed Sep 28 07:29:15 2016] GET /video/nao-cut-cut-ra-de-anh-the-hien/ => generated 111 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 4/212] 149.202.54.34 () {38 vars in 781 bytes} [Wed Sep 28 07:29:19 2016] GET /video/nay-thi-nguc-to-va-nguc-lep-cac-che-a/ => generated 118 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 12/213] 149.202.54.34 () {38 vars in 777 bytes} [Wed Sep 28 07:29:25 2016] GET /video/neuer-nhap-hon-vao-co-ho-nay-roi-ss/ => generated 116 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 165/214] 149.202.54.34 () {38 vars in 781 bytes} [Wed Sep 28 07:29:32 2016] GET /video/nhat-ma-so-gan-chet-luon-ma-khong-tha/ => generated 118 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 34/215] 149.202.54.34 () {38 vars in 819 bytes} [Wed Sep 28 07:29:37 2016] GET /video/nhin-cung-biet-la-dan-choi-roi-the-nay-thi-phe-phai-biet/ => generated 137 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 35/216] 149.202.54.34 () {38 vars in 775 bytes} [Wed Sep 28 07:29:41 2016] GET /video/nhung-dan-ca-may-man-nhat-the-gioi/ => generated 115 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 166/217] 149.202.54.34 () {38 vars in 789 bytes} [Wed Sep 28 07:29:47 2016] GET /video/nhung-man-coi-troi-bang-vung-cua-dan-nhau/ => generated 122 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 5/218] 149.202.54.34 () {38 vars in 909 bytes} [Wed Sep 28 07:29:49 2016] GET /video/nhung-man-qua-nguoi-dinh-cao-ma-tat-ca-cac-cau-thu-khong-the-bo-qua-khong-lang-phi-12p-cuoc-doi-dau-3/ => generated 182 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 13/219] 149.202.54.34 () {38 vars in 883 bytes} [Wed Sep 28 07:29:50 2016] GET /video/nhung-ngay-cuoi-cung-cua-thang-4-1975-vuot-bien-nguoi-ti-nan-giot-nuoc-mat-cho-que-huong/ => generated 169 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 167/220] 149.202.54.34 () {38 vars in 775 bytes} [Wed Sep 28 07:29:53 2016] GET /video/nhung-pha-xu-li-cuc-dinh-cua-elise/ => generated 115 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 14/221] 149.202.54.34 () {38 vars in 771 bytes} [Wed Sep 28 07:29:54 2016] GET /video/niem-dau-ay-se-mai-khong-he-phai/ => generated 113 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2864|app: 0|req: 6/222] 149.202.54.34 () {38 vars in 803 bytes} [Wed Sep 28 07:29:56 2016] GET /video/noi-long-cua-fa-khi-phai-di-choi-cung-bon-co-gau/ => generated 129 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 36/223] 149.202.54.34 () {38 vars in 863 bytes} [Wed Sep 28 07:29:58 2016] GET /video/nu-hoang-noi-y-ngoc-trinh-khoe-giong-hat-cuc-hay-voi-hit-bup-be-khong-tinh-yeu/ => generated 159 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 37/224] 149.202.54.34 () {38 vars in 785 bytes} [Wed Sep 28 07:30:00 2016] GET /video/nu-sat-thu-xinh-ngat-ngay-va-dong-bon-v/ => generated 120 bytes in 4 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 168/225] 149.202.54.34 () {38 vars in 783 bytes} [Wed Sep 28 07:30:02 2016] GET /video/nuong-va-luoc-cua-sau-mot-ngay-san-bat/ => generated 119 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 169/226] 149.202.54.34 () {38 vars in 765 bytes} [Wed Sep 28 07:30:04 2016] GET /video/phat-hien-thanh-nien-dau-ngua/ => generated 110 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 15/227] 149.202.54.34 () {38 vars in 745 bytes} [Wed Sep 28 07:30:07 2016] GET /video/phieu-het-nac-nao-v/ => generated 100 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 7/228] 149.202.54.34 () {38 vars in 845 bytes} [Wed Sep 28 07:30:09 2016] GET /video/qua-tang-cuoc-song-phu-ong-va-nguoi-ban-cui-nhan-qua-dang-xem-va-ngam/ => generated 150 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2864|app: 0|req: 8/229] 149.202.54.34 () {38 vars in 815 bytes} [Wed Sep 28 07:30:11 2016] GET /video/quang-thang-bi-danh-ghen-ngoai-doi-thuc-ko-xem-hoi-phi/ => generated 135 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 16/230] 149.202.54.34 () {38 vars in 819 bytes} [Wed Sep 28 07:30:15 2016] GET /video/quy-trinh-lam-ra-mot-chiec-xuc-xich-thom-ngon-bo-duong-d/ => generated 137 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 38/231] 149.202.54.34 () {38 vars in 801 bytes} [Wed Sep 28 07:30:20 2016] GET /video/sao-anh-ay-co-the-lam-duoc-dieu-ki-dieu-nay-nhi/ => generated 128 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 17/232] 149.202.54.34 () {38 vars in 853 bytes} [Wed Sep 28 07:30:22 2016] GET /video/sieu-xe-cua-dan-choi-dubai-boc-chay-giua-giua-duong-nhin-ma-tiec-dut-ruot/ => generated 154 bytes in 4 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 39/233] 149.202.54.34 () {38 vars in 761 bytes} [Wed Sep 28 07:30:24 2016] GET /video/soc-voi-chu-rong-y-nhu-that/ => generated 108 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 9/234] 149.202.54.34 () {38 vars in 807 bytes} [Wed Sep 28 07:30:27 2016] GET /video/soc-voi-nguoi-nong-dan-cay-2-phut-xong-1-xao-ruong/ => generated 131 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2864|app: 0|req: 10/235] 149.202.54.34 () {38 vars in 781 bytes} [Wed Sep 28 07:30:29 2016] GET /video/su-khac-nhau-giua-gai-ngoan-va-gai-hu/ => generated 118 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 170/236] 149.202.54.34 () {38 vars in 785 bytes} [Wed Sep 28 07:30:31 2016] GET /video/taekwondo-nhung-cu-da-dang-cap-the-gioi/ => generated 120 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 171/237] 149.202.54.34 () {38 vars in 857 bytes} [Wed Sep 28 07:30:34 2016] GET /video/thang-mc-sieu-hai-huoc-va-nhung-dieu-nhay-chua-tung-xuat-hien-tren-trai-dat/ => generated 156 bytes in 4 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 40/238] 149.202.54.34 () {38 vars in 777 bytes} [Wed Sep 28 07:30:36 2016] GET /video/thang-nao-ban-do-bo-giet-ca-nha-may/ => generated 116 bytes in 4 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 18/239] 149.202.54.34 () {38 vars in 783 bytes} [Wed Sep 28 07:30:43 2016] GET /video/thanh-an-hup-147-bat-mi-trong-5-phut-o/ => generated 119 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 41/240] 149.202.54.34 () {38 vars in 885 bytes} [Wed Sep 28 07:30:49 2016] GET /video/thanh-nam-da-quay-tro-lai-voi-man-an-mi-tom-trong-bon-cau-co-ai-lam-duoc-nhu-anh-ay-khong/ => generated 170 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 19/241] 149.202.54.34 () {38 vars in 805 bytes} [Wed Sep 28 07:30:57 2016] GET /video/thanh-nien-cho-ca-an-theo-phong-cach-co-dien-nhat/ => generated 130 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 172/242] 149.202.54.34 () {38 vars in 827 bytes} [Wed Sep 28 07:31:04 2016] GET /video/thanh-nien-cung-nhat-nam-la-day-tay-khong-bat-ran-ho-ve-choi/ => generated 141 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2864|app: 0|req: 11/243] 149.202.54.34 () {38 vars in 799 bytes} [Wed Sep 28 07:31:08 2016] GET /video/thanh-nien-dan-gau-di-quan-net-cung-va-cai-ket/ => generated 127 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 173/244] 149.202.54.34 () {38 vars in 785 bytes} [Wed Sep 28 07:31:13 2016] GET /video/thanh-nien-ga-gam-gai-di-via-va-cai-ket/ => generated 120 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 12/245] 149.202.54.34 () {38 vars in 797 bytes} [Wed Sep 28 07:31:20 2016] GET /video/thanh-nien-gheo-gai-va-cai-ket-cua-quy-te-tai/ => generated 126 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 42/246] 149.202.54.34 () {38 vars in 785 bytes} [Wed Sep 28 07:31:22 2016] GET /video/thanh-nien-noi-nhanh-hon-toc-do-cua-gio/ => generated 120 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 20/247] 149.202.54.34 () {38 vars in 803 bytes} [Wed Sep 28 07:31:27 2016] GET /video/thanh-nien-tang-hoa-ban-gai-va-cai-ket-dang-long/ => generated 129 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 43/248] 149.202.54.34 () {38 vars in 797 bytes} [Wed Sep 28 07:31:33 2016] GET /video/thanh-nien-them-di-bar-quay-luon-tai-quan-net/ => generated 126 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 21/249] 149.202.54.34 () {38 vars in 783 bytes} [Wed Sep 28 07:31:40 2016] GET /video/thanh-nien-viet-nam-san-bat-bo-cap-doc/ => generated 119 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 174/250] 149.202.54.34 () {38 vars in 747 bytes} [Wed Sep 28 07:31:47 2016] GET /video/thanh-quay-hien-linh/ => generated 101 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 175/251] 149.202.54.34 () {38 vars in 773 bytes} [Wed Sep 28 07:31:53 2016] GET /video/that-khong-the-tin-duoc-deo-qua-3/ => generated 114 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 13/252] 149.202.54.34 () {38 vars in 785 bytes} [Wed Sep 28 07:32:00 2016] GET /video/thay-gato-voi-sinh-vien-cong-nghiep-qua/ => generated 120 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 14/253] 149.202.54.34 () {38 vars in 779 bytes} [Wed Sep 28 07:32:04 2016] GET /video/the-nay-da-du-dang-yeu-chua-cac-nang/ => generated 117 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 44/254] 149.202.54.34 () {38 vars in 753 bytes} [Wed Sep 28 07:32:06 2016] GET /video/thi-giac-cua-ban-du-tot/ => generated 104 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 176/255] 149.202.54.34 () {38 vars in 899 bytes} [Wed Sep 28 07:32:08 2016] GET /video/thi-ra-day-la-quy-trinh-san-xuat-trung-ga-cua-nuoc-ngoai-ca-quy-trinh-ma-chi-ton-co-gan-10-nguoi/ => generated 177 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 22/256] 149.202.54.34 () {38 vars in 775 bytes} [Wed Sep 28 07:32:11 2016] GET /video/tich-cuc-quay-tay-van-may-se-den-3/ => generated 115 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 177/257] 149.202.54.34 () {38 vars in 871 bytes} [Wed Sep 28 07:32:15 2016] GET /video/tiet-muc-ko-tuong-lam-nen-ki-tich-trong-lich-su-got-talent-ngat-ngay-den-tung-giay/ => generated 163 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 45/258] 149.202.54.34 () {38 vars in 747 bytes} [Wed Sep 28 07:32:17 2016] GET /video/tinh-anh-em-la-day-v/ => generated 101 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 23/259] 149.202.54.34 () {38 vars in 815 bytes} [Wed Sep 28 07:32:20 2016] GET /video/tinh-khuc-vang-phien-ban-guita-hay-nhat-qua-dat-la-day/ => generated 135 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2864|app: 0|req: 15/260] 149.202.54.34 () {38 vars in 867 bytes} [Wed Sep 28 07:32:22 2016] GET /video/tinh-than-thuong-vo-vo-si-cau-xin-trong-tai-dung-tran-dau-vi-so-dam-chet-doi-thu/ => generated 161 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 16/261] 149.202.54.34 () {38 vars in 823 bytes} [Wed Sep 28 07:32:24 2016] GET /video/to-the-nay-bat-len-ai-ma-dam-an-phong-sinh-con-y-nghia-hon/ => generated 139 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 24/262] 149.202.54.34 () {38 vars in 827 bytes} [Wed Sep 28 07:32:27 2016] GET /video/toan-thanh-nien-cung-v-dang-ngoi-uong-bia-ma-so-chay-mat-dep/ => generated 141 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 46/263] 149.202.54.34 () {38 vars in 773 bytes} [Wed Sep 28 07:32:31 2016] GET /video/toi-con-ma-ghe-lan-dau-tien-di-hu/ => generated 114 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 178/264] 149.202.54.34 () {38 vars in 827 bytes} [Wed Sep 28 07:32:33 2016] GET /video/toi-da-nghi-anh-ay-la-tay-dua-sieu-dang-cho-den-khi-xem-xong/ => generated 141 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2864|app: 0|req: 17/265] 149.202.54.34 () {38 vars in 843 bytes} [Wed Sep 28 07:32:35 2016] GET /video/toi-tung-k-tin-su-ton-tai-cua-thien-than-cho-den-khi-em-ay-xuat-hien/ => generated 149 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 179/266] 149.202.54.34 () {38 vars in 807 bytes} [Wed Sep 28 07:32:38 2016] GET /video/tong-hop-nhung-ke-tinh-va-nguy-hiem-nhat-hanh-tinh/ => generated 131 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 25/267] 149.202.54.34 () {38 vars in 781 bytes} [Wed Sep 28 07:32:41 2016] GET /video/top-10-nguoi-thong-minh-nhat-the-gioi/ => generated 118 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2864|app: 0|req: 18/268] 149.202.54.34 () {38 vars in 767 bytes} [Wed Sep 28 07:32:44 2016] GET /video/top-10-thu-nhanh-nhat-the-gioi/ => generated 111 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 47/269] 149.202.54.34 () {38 vars in 819 bytes} [Wed Sep 28 07:32:47 2016] GET /video/top-3-cai-chet-bi-an-lien-quan-den-nguoi-ngoai-hanh-tinh/ => generated 137 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 26/270] 149.202.54.34 () {38 vars in 779 bytes} [Wed Sep 28 07:32:49 2016] GET /video/tran-danh-kinh-dien-cua-thieu-lam-tu/ => generated 117 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 19/271] 149.202.54.34 () {38 vars in 811 bytes} [Wed Sep 28 07:32:51 2016] GET /video/tran-khong-lo-san-va-nuot-tron-con-moi-ngay-tren-cay/ => generated 133 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 48/272] 149.202.54.34 () {38 vars in 849 bytes} [Wed Sep 28 07:32:53 2016] GET /video/tren-xe-bus-50-mot-chi-gai-bi-mat-do-bat-ca-xe-dung-lai-kham-tung-nguoi/ => generated 152 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 180/273] 149.202.54.34 () {38 vars in 789 bytes} [Wed Sep 28 07:32:55 2016] GET /video/tro-choi-can-moi-the-nay-chac-fa-them-lam/ => generated 122 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 27/274] 149.202.54.34 () {38 vars in 823 bytes} [Wed Sep 28 07:32:58 2016] GET /video/tro-dua-mat-day-nhat-nam-la-day-ai-tra-lai-ruot-cho-em-voi/ => generated 139 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 49/275] 149.202.54.34 () {38 vars in 817 bytes} [Wed Sep 28 07:33:02 2016] GET /video/tro-nay-ai-da-tung-lam-xem-ma-khong-cuoi-khong-lay-tien/ => generated 136 bytes in 4 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 181/276] 149.202.54.34 () {38 vars in 799 bytes} [Wed Sep 28 07:33:04 2016] GET /video/tui-hong-biet-game-ma-hay-game-hai-nua-vai-bua/ => generated 127 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2864|app: 0|req: 20/277] 149.202.54.34 () {38 vars in 801 bytes} [Wed Sep 28 07:33:06 2016] GET /video/tung-thay-con-khi-giet-nguoi-ngoai-pho-chua-nak/ => generated 128 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 28/278] 149.202.54.34 () {38 vars in 805 bytes} [Wed Sep 28 07:33:09 2016] GET /video/ve-mien-tay-keo-luoi-bat-tom-su-the-nay-moi-thich/ => generated 130 bytes in 4 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 182/279] 149.202.54.34 () {38 vars in 791 bytes} [Wed Sep 28 07:33:11 2016] GET /video/vo-chong-nha-nguoi-ta-cam-thay-gato-qua-di/ => generated 123 bytes in 4 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 183/280] 149.202.54.34 () {38 vars in 805 bytes} [Wed Sep 28 07:33:13 2016] GET /video/vo-nguoi-ta-phan-manh-quynh-hat-live-dam-cuoi-ban/ => generated 130 bytes in 4 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 50/281] 149.202.54.34 () {38 vars in 885 bytes} [Wed Sep 28 07:33:16 2016] GET /video/voi-cach-got-khoai-ba-dao-the-nay-anh-ay-xung-dang-duoc-cap-bang-sang-che-cho-su-sang-tao/ => generated 170 bytes in 4 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 51/282] 149.202.54.34 () {38 vars in 783 bytes} [Wed Sep 28 07:33:18 2016] GET /video/what-do-you-mean-parody-phieu-dung-hoi/ => generated 119 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 29/283] 149.202.54.34 () {38 vars in 833 bytes} [Wed Sep 28 07:33:21 2016] GET /xa-hoi/ba-me-2-con-xinh-nhu-hot-girl-hoc-het-lop-10-kiem-nua-ty-thang/ => generated 144 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2864|app: 0|req: 21/284] 149.202.54.34 () {38 vars in 809 bytes} [Wed Sep 28 07:33:23 2016] GET /xa-hoi/bat-gap-vo-ngoai-tinh-chong-quy-goi-xin-vo-quay-ve/ => generated 132 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 184/285] 149.202.54.34 () {38 vars in 823 bytes} [Wed Sep 28 07:33:25 2016] GET /xa-hoi/be-2-tuoi-bi-bao-hanh-vi-lam-phien-me-vung-trom-nhan-tinh/ => generated 139 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 22/286] 149.202.54.34 () {38 vars in 815 bytes} [Wed Sep 28 07:33:28 2016] GET /xa-hoi/bi-me-bo-roi-be-6-thang-tuoi-bi-xo-gan-giai-doan-cuoi/ => generated 135 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 30/287] 149.202.54.34 () {38 vars in 873 bytes} [Wed Sep 28 07:33:29 2016] GET /xa-hoi/bi-nghi-phau-thuat-chuyen-gioi-nu-cdv-thai-lan-lo-anh-gay-choang-thoi-chua-tham-my/ => generated 164 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 185/288] 149.202.54.34 () {38 vars in 825 bytes} [Wed Sep 28 07:33:31 2016] GET /xa-hoi/ca-the-gioi-deu-yeu-tam-hinh-nay-va-chac-chan-ban-cung-vay/ => generated 140 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 52/289] 149.202.54.34 () {38 vars in 779 bytes} [Wed Sep 28 07:33:34 2016] GET /xa-hoi/cach-cai-ruou-va-giai-ruou-hieu-qua/ => generated 117 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 31/290] 149.202.54.34 () {38 vars in 819 bytes} [Wed Sep 28 07:33:36 2016] GET /xa-hoi/cai-chet-bat-thuong-cua-be-trai-tai-truong-mam-non-chui/ => generated 137 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 32/291] 149.202.54.34 () {38 vars in 813 bytes} [Wed Sep 28 07:33:38 2016] GET /xa-hoi/cam-phuc-truoc-su-hoi-phuc-than-ki-cua-chu-cho-hoang/ => generated 134 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 53/292] 149.202.54.34 () {38 vars in 843 bytes} [Wed Sep 28 07:33:41 2016] GET /xa-hoi/can-canh-bua-trua-nhin-da-thay-ghe-cua-hoc-sinh-tieu-hoc-trung-quoc/ => generated 149 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 23/293] 149.202.54.34 () {38 vars in 829 bytes} [Wed Sep 28 07:33:43 2016] GET /xa-hoi/cao-oc-canh-lang-bac-sai-pham-nghiem-trong-deu-do-chu-dau-tu/ => generated 142 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 186/294] 149.202.54.34 () {38 vars in 827 bytes} [Wed Sep 28 07:33:45 2016] GET /xa-hoi/cay-co-than-ky-giup-nguoi-nhat-song-tho-co-nhieu-o-viet-nam/ => generated 141 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 24/295] 149.202.54.34 () {38 vars in 809 bytes} [Wed Sep 28 07:33:47 2016] GET /xa-hoi/chan-dai-bi-bat-qua-tang-khi-chieu-khach-o-sai-gon/ => generated 132 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 187/296] 149.202.54.34 () {38 vars in 871 bytes} [Wed Sep 28 07:33:49 2016] GET /xa-hoi/chan-dong-tinh-hai-duong-ran-than-bao-thu-cu-100-ngay-dong-ho-lai-co-1-nguoi-chet/ => generated 163 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 54/297] 149.202.54.34 () {38 vars in 835 bytes} [Wed Sep 28 07:33:51 2016] GET /xa-hoi/chang-trai-goc-viet-bo-luong-nghin-do-de-duong-dau-voi-that-bai/ => generated 145 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 188/298] 149.202.54.34 () {38 vars in 805 bytes} [Wed Sep 28 07:33:53 2016] GET /xa-hoi/clip-canh-sat-lo-dat-kinh-hoang-nhu-ngay-tan-the/ => generated 130 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 33/299] 149.202.54.34 () {38 vars in 821 bytes} [Wed Sep 28 07:33:55 2016] GET /xa-hoi/co-dau-trai-long-ve-dam-cuoi-day-vang-chan-dong-nam-dinh/ => generated 138 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 55/300] 149.202.54.34 () {38 vars in 833 bytes} [Wed Sep 28 07:33:57 2016] GET /xa-hoi/co-giao-truong-mam-non-son-ca-toi-khong-nhet-gie-vao-mieng-tre/ => generated 144 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 25/301] 149.202.54.34 () {38 vars in 801 bytes} [Wed Sep 28 07:33:59 2016] GET /xa-hoi/cong-phuong-bi-han-che-phat-bieu-khi-len-tuyen/ => generated 128 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 34/302] 149.202.54.34 () {38 vars in 783 bytes} [Wed Sep 28 07:34:01 2016] GET /xa-hoi/cuu-song-be-gai-bi-kim-dam-xuyen-bung/ => generated 119 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 26/303] 149.202.54.34 () {38 vars in 845 bytes} [Wed Sep 28 07:34:04 2016] GET /xa-hoi/danh-ban-gai-bi-bat-di-quanh-ho-duoi-mua-va-noi-anh-yeu-em-1-000-lan/ => generated 150 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 189/304] 149.202.54.34 () {38 vars in 817 bytes} [Wed Sep 28 07:34:05 2016] GET /xa-hoi/danh-thuoc-me-ong-ba-cap-doi-ban-do-co-gia-1-6-ty-dong/ => generated 136 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 35/305] 149.202.54.34 () {38 vars in 799 bytes} [Wed Sep 28 07:34:07 2016] GET /xa-hoi/day-la-10-hacker-khet-tieng-nhat-moi-thoi-dai/ => generated 127 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 190/306] 149.202.54.34 () {38 vars in 775 bytes} [Wed Sep 28 07:34:09 2016] GET /xa-hoi/dem-nay-ha-5-do-mien-bac-tro-lanh/ => generated 115 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 56/307] 149.202.54.34 () {38 vars in 801 bytes} [Wed Sep 28 07:34:11 2016] GET /xa-hoi/dieu-it-biet-ve-nha-dai-gia-co-6-nguoi-bi-giet/ => generated 128 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 57/308] 149.202.54.34 () {38 vars in 785 bytes} [Wed Sep 28 07:34:14 2016] GET /xa-hoi/dung-la-luat-nhan-qua-khong-sai-ti-nao/ => generated 120 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2864|app: 0|req: 27/309] 149.202.54.34 () {38 vars in 869 bytes} [Wed Sep 28 07:34:16 2016] GET /xa-hoi/hanh-dong-bat-ngo-cua-cau-be-ban-banh-my-khien-ong-thanh-tra-phai-hoi-han-ca-doi/ => generated 162 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 36/310] 149.202.54.34 () {38 vars in 845 bytes} [Wed Sep 28 07:34:18 2016] GET /xa-hoi/hanh-trinh-gian-nan-cua-nguoi-cha-tim-con-3-tuoi-bi-bat-coc-o-da-lat/ => generated 150 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 28/311] 149.202.54.34 () {38 vars in 857 bytes} [Wed Sep 28 07:34:20 2016] GET /xa-hoi/hoang-hon-co-gai-bi-mac-ket-vao-nap-cong-voi-li-do-khong-the-tin-duoc-1839/ => generated 156 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 191/312] 123.151.42.61 () {36 vars in 425 bytes} [Wed Sep 28 07:34:22 2016] GET / => generated 17789 bytes in 110 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 192/313] 149.202.54.34 () {38 vars in 817 bytes} [Wed Sep 28 07:34:22 2016] GET /xa-hoi/kiem-hon-22-trieu-dong-moi-tuan-nho-viec-ngoi-xep-hang/ => generated 136 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 58/314] 149.202.54.34 () {38 vars in 787 bytes} [Wed Sep 28 07:34:24 2016] GET /xa-hoi/kinh-hai-me-giet-con-moi-de-roi-an-thit/ => generated 121 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 37/315] 149.202.54.34 () {38 vars in 795 bytes} [Wed Sep 28 07:34:26 2016] GET /xa-hoi/kinh-hoang-dan-lang-thieu-song-bon-trom-cho/ => generated 125 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 38/316] 149.202.54.34 () {38 vars in 817 bytes} [Wed Sep 28 07:34:28 2016] GET /xa-hoi/kinh-so-can-benh-cu-20-giay-co-mot-nguoi-phai-cat-chan/ => generated 136 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 29/317] 149.202.54.34 () {38 vars in 827 bytes} [Wed Sep 28 07:34:30 2016] GET /xa-hoi/kinh-so-can-benh-cu-20-giay-co-mot-nguoi-phai-cat-chan-1734/ => generated 141 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 59/318] 149.202.54.34 () {38 vars in 881 bytes} [Wed Sep 28 07:34:33 2016] GET /xa-hoi/loi-noi-doi-cua-vien-canh-sat-doi-voi-mot-dua-tre-suot-30-nam-khien-bao-nguoi-cam-phuc/ => generated 168 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2864|app: 0|req: 30/319] 149.202.54.34 () {38 vars in 817 bytes} [Wed Sep 28 07:34:35 2016] GET /xa-hoi/man-cau-hon-cua-cap-doi-dong-tinh-nu-xinh-dep-giua-pho/ => generated 136 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 193/320] 149.202.54.34 () {38 vars in 821 bytes} [Wed Sep 28 07:34:37 2016] GET /xa-hoi/moi-bia-xong-nhan-vien-quan-nhau-dam-chet-guc-khach-nhau/ => generated 138 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 31/321] 149.202.54.34 () {38 vars in 851 bytes} [Wed Sep 28 07:34:39 2016] GET /xa-hoi/nghe-tieng-ren-ri-nguoi-dan-ong-dao-boi-dien-cuong-va-su-that-chet-lang/ => generated 153 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 60/322] 149.202.54.34 () {38 vars in 869 bytes} [Wed Sep 28 07:34:41 2016] GET /xa-hoi/nguoi-dan-ong-chon-cai-chet-tren-cau-vuot-cay-go-vi-bi-ky-thi-la-nguoi-dong-tinh/ => generated 162 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 194/323] 149.202.54.34 () {38 vars in 859 bytes} [Wed Sep 28 07:34:43 2016] GET /xa-hoi/nguoi-dan-ong-to-mo-cho-tay-vao-cai-lo-tren-dinh-nui-va-cai-ket-gay-xon-xao/ => generated 157 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 39/324] 149.202.54.34 () {38 vars in 811 bytes} [Wed Sep 28 07:34:45 2016] GET /xa-hoi/nguoi-dan-sai-gon-khon-don-vi-bi-kien-ba-khoang-can/ => generated 133 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 40/325] 149.202.54.34 () {38 vars in 843 bytes} [Wed Sep 28 07:34:47 2016] GET /xa-hoi/nu-sinh-thai-lan-khien-dan-mang-nhon-nhao-vi-buc-anh-trong-thu-vien/ => generated 149 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 61/326] 149.202.54.34 () {38 vars in 817 bytes} [Wed Sep 28 07:34:49 2016] GET /xa-hoi/on-lanh-voi-cau-treo-kinh-khong-danh-cho-nguoi-yeu-tim/ => generated 136 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2864|app: 0|req: 32/327] 149.202.54.34 () {38 vars in 817 bytes} [Wed Sep 28 07:34:51 2016] GET /xa-hoi/ong-chu-ca-phe-dao-ban-gan-2-000-coc-thu-20-trieu-ngay/ => generated 136 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 195/328] 149.202.54.34 () {38 vars in 827 bytes} [Wed Sep 28 07:34:54 2016] GET /xa-hoi/phan-no-chu-cho-hoang-bi-hanh-ha-dam-thung-bo-phan-sinh-duc/ => generated 141 bytes in 4 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 62/329] 149.202.54.34 () {38 vars in 849 bytes} [Wed Sep 28 07:34:56 2016] GET /xa-hoi/ron-nguoi-bo-giet-hai-con-bang-cach-cho-vao-may-giat-quay-cho-den-chet/ => generated 152 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 41/330] 149.202.54.34 () {38 vars in 827 bytes} [Wed Sep 28 07:34:58 2016] GET /xa-hoi/rung-minh-voi-xuc-xich-moc-meo-va-su-that-chan-dong-dia-cau/ => generated 141 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2864|app: 0|req: 33/331] 149.202.54.34 () {38 vars in 815 bytes} [Wed Sep 28 07:35:00 2016] GET /xa-hoi/su-that-bat-ngo-ve-buc-anh-me-ngao-da-danh-con-da-man/ => generated 135 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 196/332] 149.202.54.34 () {38 vars in 813 bytes} [Wed Sep 28 07:35:02 2016] GET /xa-hoi/tham-nhap-con-duong-mai-dam-cua-gai-gia-di-xe-tay-ga/ => generated 134 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 42/333] 149.202.54.34 () {38 vars in 817 bytes} [Wed Sep 28 07:35:04 2016] GET /xa-hoi/thang-dong-timor-u19-vn-vung-ngoi-dau-vong-loai-chau-a/ => generated 136 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 34/334] 149.202.54.34 () {38 vars in 817 bytes} [Wed Sep 28 07:35:07 2016] GET /xa-hoi/thanh-nien-tan-tat-khoc-nuc-no-vi-bi-giat-108-to-ve-so/ => generated 136 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 63/335] 149.202.54.34 () {38 vars in 803 bytes} [Wed Sep 28 07:35:09 2016] GET /xa-hoi/thanh-nien-tu-cat-dut-cua-quy-trong-con-ngao-da/ => generated 129 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 43/336] 149.202.54.34 () {38 vars in 857 bytes} [Wed Sep 28 07:35:11 2016] GET /xa-hoi/thieu-nu-viet-bi-boc-me-song-ao-boi-loat-anh-mat-minh-than-hinh-nguoi-khac/ => generated 156 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 197/337] 149.202.54.34 () {38 vars in 845 bytes} [Wed Sep 28 07:35:13 2016] GET /xa-hoi/tren-2-trieu-nguoi-da-bi-chinh-quyen-trung-quoc-mo-lay-noi-tang-song/ => generated 150 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 64/338] 149.202.54.34 () {38 vars in 877 bytes} [Wed Sep 28 07:35:16 2016] GET /xa-hoi/tu-tay-boc-mo-cho-me-nguoi-con-trai-la-het-khi-bat-nap-quan-tai-phat-hien-ra-thu-nay/ => generated 166 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 35/339] 149.202.54.34 () {38 vars in 811 bytes} [Wed Sep 28 07:35:18 2016] GET /xa-hoi/vff-ban-ve-tran-viet-nam-gap-iraq-thai-lan-ngay-mai/ => generated 133 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 198/340] 149.202.54.34 () {38 vars in 813 bytes} [Wed Sep 28 07:35:20 2016] GET /xa-hoi/viet-nam-iraq-cho-miura-dat-niem-tin-vao-cong-phuong/ => generated 134 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2864|app: 0|req: 36/341] 149.202.54.34 () {38 vars in 809 bytes} [Wed Sep 28 07:35:22 2016] GET /xa-hoi/xe-hop-keo-le-xe-may-tia-lua-ban-tung-toe-ra-duong/ => generated 132 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 44/342] 149.202.54.34 () {38 vars in 797 bytes} [Wed Sep 28 07:35:24 2016] GET /xa-hoi/xot-long-be-gai-1-tuoi-bi-huy-hoai-khuon-mat/ => generated 126 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 65/343] 149.202.54.34 () {38 vars in 847 bytes} [Wed Sep 28 07:35:26 2016] GET /xa-hoi/xot-long-cau-chuyen-nguoi-me-bi-co-con-gai-hat-hui-vi-lam-nghe-ban-ca/ => generated 151 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2864|app: 0|req: 37/344] 149.202.54.34 () {38 vars in 845 bytes} [Wed Sep 28 07:35:29 2016] GET /xa-hoi/xot-thuong-cau-be-mo-coi-mac-u-nao-quanh-nam-bi-nhot-trong-phong-kin/ => generated 150 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2863|app: 0|req: 45/345] 149.202.54.34 () {38 vars in 805 bytes} [Wed Sep 28 07:35:31 2016] GET /xa-hoi/xot-xa-co-gai-co-khuon-mat-bien-dang-bi-chong-bo/ => generated 130 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 66/346] 149.202.54.34 () {38 vars in 837 bytes} [Wed Sep 28 07:35:33 2016] GET /xa-hoi/xuat-than-va-qua-khu-cua-co-gai-duoc-thieu-gia-tang-999-doa-hong/ => generated 146 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2864|app: 0|req: 38/347] 149.202.54.34 () {38 vars in 859 bytes} [Wed Sep 28 07:35:35 2016] GET /xa-hoi/xuc-dong-chuyen-2-nguoi-con-nuoi-giac-mo-do-dai-hoc-tu-thung-kem-dao-cua-ba/ => generated 157 bytes in 2 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 199/348] 149.202.54.34 () {34 vars in 473 bytes} [Wed Sep 28 07:35:37 2016] GET /robots.txt => generated 84 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 200/349] 149.202.54.34 () {36 vars in 719 bytes} [Wed Sep 28 07:35:40 2016] GET /cgi-sys/suspendedpage.cgi => generated 99 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 67/350] 149.202.54.34 () {38 vars in 709 bytes} [Wed Sep 28 07:35:42 2016] GET /cpanel => generated 80 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 68/351] 163.172.66.12 () {34 vars in 527 bytes} [Wed Sep 28 07:37:47 2016] GET /xa-hoi/giet-nguoi-de-vua-long-nguoi-am/ => generated 113 bytes in 2 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 201/352] 220.181.108.145 () {38 vars in 529 bytes} [Wed Sep 28 07:37:51 2016] GET /tag/12 => generated 9733 bytes in 42 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 202/353] 66.249.73.141 () {38 vars in 599 bytes} [Wed Sep 28 07:38:24 2016] GET /article/10 => generated 16538 bytes in 355 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 203/354] 172.245.254.79 () {42 vars in 739 bytes} [Wed Sep 28 07:45:18 2016] GET /2016/06/27/%e5%85%bb%e8%8a%b1%e8%ae%b0/ => generated 95 bytes in 18 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 204/355] 172.245.254.79 () {42 vars in 683 bytes} [Wed Sep 28 07:45:18 2016] GET / => generated 17756 bytes in 72 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 205/356] 207.46.13.49 () {42 vars in 580 bytes} [Wed Sep 28 07:51:19 2016] GET /robots.txt => generated 84 bytes in 7 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 206/357] 91.121.211.59 () {34 vars in 470 bytes} [Wed Sep 28 07:51:51 2016] GET /robots.txt => generated 84 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 69/358] 91.121.211.59 () {36 vars in 724 bytes} [Wed Sep 28 07:51:53 2016] GET /category/chuy%E1%BB%87n%20showbiz => generated 99 bytes in 8 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 70/359] 91.121.211.59 () {38 vars in 806 bytes} [Wed Sep 28 07:51:55 2016] GET /media/nh-ng-am-may-l-xu-t-hi-n-tren-b-u-tr-i-ha-n-i-ngay => generated 130 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 207/360] 91.121.211.59 () {38 vars in 814 bytes} [Wed Sep 28 07:51:59 2016] GET /media/tai-n-n-nghiem-tr-ng-1-ng-i-ch-t-va-nhi-u-ng-i-b-th-ng => generated 134 bytes in 4 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 208/361] 91.121.211.59 () {38 vars in 736 bytes} [Wed Sep 28 07:52:03 2016] GET /user/tuanvupro/points => generated 95 bytes in 3 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 209/362] 163.172.65.37 () {34 vars in 511 bytes} [Wed Sep 28 07:54:38 2016] GET /2016/06/27/%E5%85%BB%E8%8A%B1%E8%AE%B0/ => generated 95 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 210/363] 203.113.152.4 () {40 vars in 576 bytes} [Wed Sep 28 07:55:42 2016] GET / => generated 17756 bytes in 68 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 211/364] 157.55.39.203 () {42 vars in 577 bytes} [Wed Sep 28 07:56:52 2016] GET / => generated 17756 bytes in 66 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 212/365] 157.55.39.203 () {42 vars in 573 bytes} [Wed Sep 28 07:57:04 2016] GET / => generated 17756 bytes in 67 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 213/366] 23.96.184.214 () {34 vars in 466 bytes} [Wed Sep 28 07:58:22 2016] GET /feed.asp => generated 82 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 214/367] 66.249.73.166 () {38 vars in 600 bytes} [Wed Sep 28 08:02:09 2016] GET /article/3 => generated 12607 bytes in 291 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 215/368] 66.249.73.158 () {38 vars in 600 bytes} [Wed Sep 28 08:03:02 2016] GET /article/8 => generated 17305 bytes in 370 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 216/369] 66.249.73.158 () {38 vars in 600 bytes} [Wed Sep 28 08:04:08 2016] GET /article/7 => generated 10631 bytes in 104 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 217/370] 66.249.73.166 () {38 vars in 602 bytes} [Wed Sep 28 08:05:11 2016] GET /category/2 => generated 11691 bytes in 46 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 218/371] 66.249.73.162 () {38 vars in 602 bytes} [Wed Sep 28 08:09:28 2016] GET /category/3 => generated 9679 bytes in 52 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 219/372] 51.255.66.99 () {34 vars in 586 bytes} [Wed Sep 28 08:28:13 2016] GET /xa-hoi/56-khach-viet-mat-tich-o-dao-jeju-de-nghi-bo-cong-an-dieu-tra/ => generated 143 bytes in 8 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 220/373] 113.85.155.206 () {42 vars in 683 bytes} [Wed Sep 28 08:31:07 2016] GET / => generated 17786 bytes in 71 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 221/374] 85.93.91.84 () {34 vars in 511 bytes} [Wed Sep 28 08:40:11 2016] GET /SiteMap/Index?filename=sitemap => generated 87 bytes in 7 msecs (HTTP/1.0 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 222/375] 66.249.73.162 () {38 vars in 602 bytes} [Wed Sep 28 08:54:01 2016] GET /category/1 => generated 17834 bytes in 70 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 223/376] 66.249.73.158 () {38 vars in 708 bytes} [Wed Sep 28 09:00:01 2016] GET / => generated 17786 bytes in 87 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 224/377] 157.55.39.217 () {42 vars in 584 bytes} [Wed Sep 28 09:11:02 2016] GET /robots.txt => generated 84 bytes in 10 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 225/378] 45.32.35.139 () {48 vars in 946 bytes} [Wed Sep 28 09:13:05 2016] GET /article/7 => generated 10631 bytes in 2482 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 226/379] 45.32.35.139 () {48 vars in 946 bytes} [Wed Sep 28 09:13:20 2016] GET /article/7 => generated 10645 bytes in 101 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 227/380] 45.32.35.139 () {46 vars in 906 bytes} [Wed Sep 28 09:13:52 2016] GET / => generated 17759 bytes in 66 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 228/381] 45.32.35.139 () {46 vars in 915 bytes} [Wed Sep 28 09:13:54 2016] GET /article/8 => generated 17305 bytes in 288 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 229/382] 45.32.35.139 () {46 vars in 915 bytes} [Wed Sep 28 09:13:55 2016] GET /article/8 => generated 17305 bytes in 225 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 230/383] 45.32.35.139 () {46 vars in 915 bytes} [Wed Sep 28 09:13:55 2016] GET /article/8 => generated 17305 bytes in 255 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 231/384] 45.32.35.139 () {48 vars in 946 bytes} [Wed Sep 28 09:14:28 2016] GET /article/8 => generated 17275 bytes in 2382 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 232/385] 45.32.35.139 () {46 vars in 924 bytes} [Wed Sep 28 09:14:39 2016] GET /article/9 => generated 23870 bytes in 591 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 233/386] 45.32.35.139 () {46 vars in 924 bytes} [Wed Sep 28 09:14:40 2016] GET /article/9 => generated 23870 bytes in 488 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 234/387] 157.55.39.173 () {42 vars in 573 bytes} [Wed Sep 28 09:20:19 2016] GET / => generated 17754 bytes in 79 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 235/388] 23.227.201.182 () {34 vars in 438 bytes} [Wed Sep 28 09:36:02 2016] GET / => generated 17754 bytes in 131 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 236/389] 23.227.201.182 () {34 vars in 451 bytes} [Wed Sep 28 09:36:03 2016] GET /?page=2 => generated 17777 bytes in 73 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 237/390] 23.227.201.182 () {34 vars in 448 bytes} [Wed Sep 28 09:36:04 2016] GET /about => generated 0 bytes in 1 msecs (HTTP/1.1 301) 3 headers in 122 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 46/391] 23.227.201.182 () {34 vars in 446 bytes} [Wed Sep 28 09:36:05 2016] GET /blog => generated 0 bytes in 4 msecs (HTTP/1.1 301) 3 headers in 121 bytes (1 switches on core 0)
+[pid: 2863|app: 0|req: 47/392] 23.227.201.182 () {34 vars in 452 bytes} [Wed Sep 28 09:36:06 2016] GET /contact => generated 0 bytes in 1 msecs (HTTP/1.1 301) 3 headers in 124 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 71/393] 23.227.201.182 () {34 vars in 452 bytes} [Wed Sep 28 09:36:10 2016] GET /2016/09 => generated 0 bytes in 4 msecs (HTTP/1.1 301) 3 headers in 124 bytes (1 switches on core 0)
+[pid: 2865|app: 0|req: 72/394] 23.227.201.182 () {34 vars in 462 bytes} [Wed Sep 28 09:36:10 2016] GET /archive/2016 => generated 0 bytes in 1 msecs (HTTP/1.1 301) 3 headers in 129 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 238/395] 23.227.201.182 () {34 vars in 456 bytes} [Wed Sep 28 09:36:11 2016] GET /article/1 => generated 13216 bytes in 226 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 239/396] 23.227.201.182 () {34 vars in 456 bytes} [Wed Sep 28 09:36:12 2016] GET /article/2 => generated 12742 bytes in 230 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2865|app: 0|req: 73/397] 23.227.201.182 () {34 vars in 456 bytes} [Wed Sep 28 09:36:13 2016] GET /article/4 => generated 14248 bytes in 2790 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 1.537 seconds.
+Prefix dict has been built succesfully.
+[pid: 2863|app: 0|req: 48/398] 23.227.201.182 () {34 vars in 456 bytes} [Wed Sep 28 09:36:16 2016] GET /article/7 => generated 10662 bytes in 1694 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 240/399] 23.227.201.182 () {34 vars in 456 bytes} [Wed Sep 28 09:36:18 2016] GET /article/8 => generated 17322 bytes in 249 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 241/400] 23.227.201.182 () {34 vars in 458 bytes} [Wed Sep 28 09:36:19 2016] GET /category/1 => generated 17806 bytes in 64 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 242/401] 23.227.201.182 () {34 vars in 458 bytes} [Wed Sep 28 09:36:19 2016] GET /category/2 => generated 11722 bytes in 46 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 243/402] 23.227.201.182 () {34 vars in 458 bytes} [Wed Sep 28 09:36:19 2016] GET /category/3 => generated 9710 bytes in 41 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 244/403] 23.227.201.182 () {34 vars in 448 bytes} [Wed Sep 28 09:36:20 2016] GET /tag/1 => generated 11672 bytes in 46 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 245/404] 23.227.201.182 () {34 vars in 450 bytes} [Wed Sep 28 09:36:21 2016] GET /tag/10 => generated 9710 bytes in 41 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 246/405] 23.227.201.182 () {34 vars in 450 bytes} [Wed Sep 28 09:36:21 2016] GET /tag/11 => generated 9710 bytes in 41 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 247/406] 23.227.201.182 () {34 vars in 450 bytes} [Wed Sep 28 09:36:21 2016] GET /tag/12 => generated 9734 bytes in 46 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 248/407] 23.227.201.182 () {34 vars in 448 bytes} [Wed Sep 28 09:36:22 2016] GET /tag/2 => generated 11731 bytes in 50 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 249/408] 23.227.201.182 () {34 vars in 448 bytes} [Wed Sep 28 09:36:22 2016] GET /tag/3 => generated 9758 bytes in 55 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 250/409] 23.227.201.182 () {34 vars in 448 bytes} [Wed Sep 28 09:36:22 2016] GET /tag/4 => generated 15628 bytes in 66 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 251/410] 23.227.201.182 () {34 vars in 448 bytes} [Wed Sep 28 09:36:23 2016] GET /tag/6 => generated 13747 bytes in 49 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 252/411] 23.227.201.182 () {34 vars in 448 bytes} [Wed Sep 28 09:36:23 2016] GET /tag/7 => generated 9757 bytes in 40 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 253/412] 23.227.201.182 () {34 vars in 448 bytes} [Wed Sep 28 09:36:24 2016] GET /tag/8 => generated 9757 bytes in 40 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 254/413] 23.227.201.182 () {34 vars in 448 bytes} [Wed Sep 28 09:36:25 2016] GET /tag/9 => generated 11722 bytes in 46 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 255/414] 23.227.201.182 () {34 vars in 452 bytes} [Wed Sep 28 09:36:25 2016] GET //?page=1 => generated 17729 bytes in 66 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 256/415] 23.227.201.182 () {34 vars in 458 bytes} [Wed Sep 28 09:36:26 2016] GET /article/10 => generated 16555 bytes in 284 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
+[pid: 2862|app: 0|req: 257/416] 23.227.201.182 () {34 vars in 456 bytes} [Wed Sep 28 09:36:26 2016] GET /article/3 => generated 12624 bytes in 225 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 1)
+[pid: 2862|app: 0|req: 258/417] 23.227.201.182 () {34 vars in 456 bytes} [Wed Sep 28 09:36:27 2016] GET /article/5 => generated 16273 bytes in 2410 msecs (HTTP/1.1 200) 2 headers in 88 bytes (1 switches on core 0)
